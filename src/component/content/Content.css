@@ -307,3 +307,117 @@
   align-items: center;
   padding: 0;
 }
+.content-container-head-7 {
+  margin-top: 20px;
+  font-size: 26px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-left: 200px;
+}
+.content-container-para-7 {
+  font-size: 18px;
+  font-weight: lighter;
+  color: #ffffff;
+  margin-left: 200px;
+}
+.content-container-input {
+  width: 300px;
+  height: 40px;
+  border: none;
+  margin-top: 20px;
+  border-radius: 6px;
+  padding: 10px;
+  border-right-width: 0px;
+  font-size: 18px;
+  text-align: left;
+  border-right: none;
+}
+.content-container-btn {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 4px;
+  background-color: #3f8fd6;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px;
+  border-left-width: 0px;
+  margin-top: 18px;
+  margin-right: 110px;
+  margin-bottom: 4px;
+  border-left: none;
+}
+.content-container-8 {
+  width: 100%;
+  margin-top: 40px;
+  height: 700px;
+}
+.content-container-head-8 {
+  font-size: 26px;
+  font-weight: bold;
+  color: #0e367e;
+  text-align: center;
+}
+.content-container-small-head-8 {
+  font-size: 20px;
+  height: 35px;
+  background-color: #3f8fd6;
+  margin: 30px 30px;
+}
+.content-container-small-head-8 p {
+  color: #ffffff;
+  font-weight: bold;
+  margin: 20px 30px;
+}
+.content-container-ul-8 {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.placeNames {
+  font-size: 14px;
+  font-weight: normal;
+  margin: 20px 60px;
+}
+.content-container-small-head-8-1 {
+  font-size: 20px;
+  height: 35px;
+  background-color: #3f8fd6;
+  margin: 30px 30px;
+}
+.content-container-small-head-8-1 p {
+  color: #ffffff;
+  font-weight: bold;
+  margin: 20px 30px;
+}
+.content-container-ul-8-1 {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.placeNames-1 {
+  font-size: 14px;
+  font-weight: normal;
+  margin: 10px 60px;
+}
+.content-container-ul-8-2 {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.placeNames-2 {
+  font-size: 14px;
+  font-weight: normal;
+  margin: 10px 60px;
+}
+.content-container-ul-8-3 {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.placeNames-3 {
+  font-size: 14px;
+  font-weight: normal;
+  margin: 10px 60px;
+}

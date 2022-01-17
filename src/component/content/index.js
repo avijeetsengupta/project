@@ -139,9 +139,50 @@ function Content() {
           <p className="content-container-para-7">Subscribe and receive latest travel news</p>
         </div>
         <div className="content-container-div-2">
-          <input className="content-container-input" type="text" placeholder="Enter your email address" />
+          <input className="content-container-input" type="text" placeholder="address@email.com" />
           <button className="content-container-btn">Subscribe</button>
         </div>
+      </div>
+
+      <div className="content-container-8">
+        <h1 className="content-container-head-8">TOP TRAVEL DESTINATIONS</h1>
+        <div className="content-container-small-head-8">
+          <p>Domestic</p>
+        </div>
+        <ul className="content-container-ul-8">
+          <li className="content-container-li-8 placeNames">Boston</li>
+          <li className="content-container-li-8 placeNames">John F. Kennedy</li>
+          <li className="content-container-li-8 placeNames">Los angeles</li>
+          <li className="content-container-li-8 placeNames">Las Vegas</li>
+          <li className="content-container-li-8 placeNames">Newark</li>
+          <li className="content-container-li-8 placeNames">Miami</li>
+        </ul>
+        <div className="content-container-small-head-8-1">
+          <p>International</p>
+        </div>
+        <ul className="content-container-ul-8-1">
+          <li className="content-container-li-8-1 placeNames-1">Aruba</li>
+          <li className="content-container-li-8-1 placeNames-1">Santiago</li>
+          <li className="content-container-li-8-1 placeNames-1">Argentina</li>
+          <li className="content-container-li-8-1 placeNames-1">Bolivia</li>
+          <li className="content-container-li-8-1 placeNames-1">Brazil</li>
+          <li className="content-container-li-8-1 placeNames-1">Chile</li>
+        </ul>
+        <ul className="content-container-ul-8-2">
+          <li className="content-container-li-8-2 placeNames-2">Cancun</li>
+          <li className="content-container-li-8-2 placeNames-2">Colombia</li>
+          <li className="content-container-li-8-2 placeNames-2">Guadalajara</li>
+          <li className="content-container-li-8-2 placeNames-2">Guatemala</li>
+          <li className="content-container-li-8-2 placeNames-2">Guyana</li>
+          <li className="content-container-li-8-2 placeNames-2">London</li>
+        </ul>
+        <ul className="content-container-ul-8-3">
+          <li className="content-container-li-8-3 placeNames-3">Mexico</li>
+          <li className="content-container-li-8-3 placeNames-3">Peru</li>
+          <li className="content-container-li-8-3 placeNames-3">Puerto Vallarta</li>
+          <li className="content-container-li-8-3 placeNames-3">San José del Cabo</li>
+          <li className="content-container-li-8-3 placeNames-3">San Juan</li>
+        </ul>
       </div>
     </div>
   );

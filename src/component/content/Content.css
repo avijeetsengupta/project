@@ -1,0 +1,309 @@
+.content {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin-top: 50px;
+  padding: 10px;
+}
+.content-head {
+  text-align: center;
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  font-size: 21px;
+  font-style: normal;
+  color: #0e367e;
+  font-weight: bold;
+  padding-bottom: 50px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+}
+.content-container {
+  width: 100%;
+  height: auto;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+.content-container-card {
+  width: 400px;
+  height: 300px;
+  margin-bottom: 50px;
+}
+.content-container-card-para {
+  width: 300px;
+  height: 300px;
+  text-align: justify;
+  line-height: 18px;
+  margin-left: 300px;
+  margin-top: 10px;
+  font-family: "helvetica";
+  vertical-align: baseline;
+  font-size: 14px;
+}
+.content-container-img {
+  width: 300px;
+  height: auto;
+  margin-bottom: 100px;
+  vertical-align: baseline;
+  margin-right: 340px;
+}
+
+/* Secont Card */
+.content-container-2 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.content-container-card-para-2 {
+  width: 300px;
+  height: 300px;
+  text-align: justify;
+  line-height: 18px;
+  margin-right: 340px;
+  font-family: "helvetica";
+  vertical-align: baseline;
+  font-size: 14px;
+}
+.content-container-img-2 {
+  width: 300px;
+  height: auto;
+  margin-bottom: 100px;
+  vertical-align: baseline;
+  margin-left: 300px;
+}
+
+/* Third Card */
+.content-container-3 {
+  width: 100%;
+  height: auto;
+
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.content-container-img-3 {
+  width: 300px;
+  height: auto;
+  margin-bottom: 100px;
+  margin-top: 10px;
+  vertical-align: baseline;
+  margin-right: 340px;
+}
+.content-container-card-para-3 {
+  width: 300px;
+  height: 300px;
+  text-align: justify;
+  line-height: 18px;
+  margin-left: 300px;
+  font-family: "helvetica";
+  vertical-align: baseline;
+  font-size: 14px;
+}
+
+.content-head-2 {
+  text-align: center;
+  text-decoration-line: underline;
+  margin-bottom: 100px;
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  font-size: 26px;
+  font-style: normal;
+  color: #0e367e;
+  font-weight: bold;
+}
+
+/* 4th Card */
+.content-container-4 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.content-container-card-para-4 {
+  width: 450px;
+  height: 300px;
+  text-align: justify;
+  line-height: 18px;
+  margin-top: 20px;
+  margin-left: 200px;
+  font-family: "helvetica";
+  vertical-align: baseline;
+  font-size: 14px;
+}
+.content-container-card-head {
+  font-size: 26px;
+  font-weight: bold;
+  color: #0e367e;
+  margin-left: 200px;
+}
+.content-container-img-4 {
+  width: 440px;
+  height: 260px;
+  margin-bottom: 130px;
+  vertical-align: baseline;
+  margin-right: 200px;
+}
+
+/* 5th Card */
+.content-container-5 {
+  width: 100%;
+  height: auto;
+
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.content-container-img-5 {
+  width: 440px;
+  height: 260px;
+  margin-bottom: 130px;
+  vertical-align: baseline;
+  margin-left: 200px;
+}
+.content-container-card-para-5 {
+  width: 450px;
+  height: 300px;
+  text-align: justify;
+  line-height: 18px;
+  margin-top: 20px;
+  margin-right: 200px;
+  font-family: "helvetica";
+  vertical-align: baseline;
+  font-size: 14px;
+}
+.content-container-card-head-1 {
+  font-size: 26px;
+  font-weight: bold;
+  color: #0e367e;
+  margin-right: 200px;
+}
+
+/* 6th Card */
+.content-container-6 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.content-container-card-easy {
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  text-align: center;
+  width: 400px;
+  height: 200px;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  margin-left: 120px;
+  border-radius: 10px;
+}
+.content-container-card-easy:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.content-container-card-easy-head {
+  font-size: 20px;
+  font-weight: lighter;
+  color: #0e367e;
+  margin-top: 20px;
+}
+.content-container-img-easy {
+  margin-top: 15px;
+}
+.content-container-card-easy-para {
+  font-size: 12px;
+  font-weight: lighter;
+  color: #000000;
+  margin-top: 10px;
+  font-family: "helvetica";
+}
+
+.content-container-card-trust {
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  text-align: center;
+  width: 380px;
+  height: 200px;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  margin: 0 30px;
+}
+.content-container-card-trust:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.content-container-img-trust {
+  margin-top: 15px;
+}
+.content-container-card-trust-head {
+  font-size: 20px;
+  font-weight: lighter;
+  color: #0e367e;
+  margin-top: 20px;
+}
+.content-container-card-trust-para {
+  font-size: 12px;
+  font-weight: lighter;
+  color: #000000;
+  margin-top: 10px;
+  font-family: "helvetica";
+}
+
+.content-container-card-service {
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  text-align: center;
+  width: 380px;
+  height: 200px;
+  box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  margin-right: 30px;
+}
+.content-container-card-service:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.content-container-img-service {
+  margin-top: 15px;
+}
+.content-container-card-service-head {
+  font-size: 20px;
+  font-weight: lighter;
+  color: #0e367e;
+  margin-top: 20px;
+}
+.content-container-card-service-para {
+  font-size: 12px;
+  font-weight: lighter;
+  color: #000000;
+  margin-top: 10px;
+  font-family: "helvetica";
+}
+
+/* 7th Card */
+.content-container-7 {
+  width: 100%;
+  height: 120px;
+  background-color: #0e367e;
+  display: flex;
+  margin: 20px 0;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
